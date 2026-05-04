@@ -1,2 +1,33 @@
 # monitor-nivel-agua
+
 Sistema de monitoramento de nível de água em Python com alertas coloridos no terminal por bibliotecas colorama.
+Monitor de Nível de Água
+
+Sistema simples de monitoramento de nível de água via terminal, com exibição de alertas coloridos e organizados.
+
+Funcionalidades
+
+- Monitoramento de 5 níveis de água
+- Exibição de mensagens coloridas no terminal
+- Simulação de um ambiente real de reservatório
+
+Níveis do sistema
+
+| Nível | Situação | Cor |
+|------|--------|-----|
+| 1 | Muito baixo (crítico) | Vermelho |
+| 2 | Baixo | Amarelo |
+| 3 | Médio | Verde |
+| 4 | Alto | Ciano |
+| 5 | Muito alto (alerta) | Azul |
+
+Tecnologias utilizadas
+
+- Python
+- Colorama
+
+Como executar?
+
+```bash
+pip install -r requirements.txt
+python main.py
