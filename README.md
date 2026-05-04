@@ -1,9 +1,8 @@
 # :droplet: Monitor de Nível de Água
 
 Sistema de monitoramento de nível de água em Python com alertas coloridos no terminal por bibliotecas colorama.
-Monitor de Nível de Água
 
-Sistema simples de monitoramento de nível de água via terminal, com exibição de alertas coloridos e organizados.
+Interface simples com exibição de alertas coloridos e organizados.
 
 :pushpin:Funcionalidades
 
